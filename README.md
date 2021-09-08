@@ -45,7 +45,7 @@ python3 OSCPBuff.py pattern -h
 `-s` : Set the size of the pattern, must be **int**.  
 `-o` : Set the namee of the ouput file.
 
-![pattern.gif](/assets/mona.gif)  
+![pattern.gif](/assets/pattern.gif)  
 
 ## badchar
 
