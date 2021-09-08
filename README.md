@@ -109,6 +109,9 @@ If you want to execute the exploit, just don't put the `--generate` option.
 
 You can contribute as well !  
 
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/AlrikRr/OSCPBuff/graphs/contributors)
+<a href="https://github.com/AlrikRr/OSCPBuff/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AlrikRr/OSCPBuff" />
+</a>
 
+Made with [contributors-img](https://contrib.rocks).
 
