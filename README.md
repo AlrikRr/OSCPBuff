@@ -1,7 +1,7 @@
-<a href="https://github.com/AlrikRr/OSCPBuff/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/issues/AlrikRr/OSCPBuff"></a>
-<a href="https://github.com/AlrikRr/OSCPBuff/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/issues/AlrikRr/OSCPBuff"></a>
-<a href="https://github.com/AlrikRr/OSCPBuff/network"><img alt="GitHub forks" src="https://img.shields.io/github/issues/AlrikRr/OSCPBuff"></a>
-<a href="https://github.com/AlrikRr/OSCPBuff/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AlrikRr/OSCPBuff"></a>
+<a href="https://github.com/AlrikRr/OSCPBuff/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/AlrikRr/OSCPBuff"></a> 
+<a href="https://github.com/AlrikRr/OSCPBuff/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AlrikRr/OSCPBuff"></a> 
+<a href="https://github.com/AlrikRr/OSCPBuff/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AlrikRr/OSCPBuff"></a> 
+<a href="https://github.com/AlrikRr/OSCPBuff/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AlrikRr/OSCPBuff"></a> 
 
 # OSCPBuff
 OSCP Buffer Overflow Tool Box
